@@ -11,4 +11,4 @@ Accept user answers through console input
 Check whether the selected answer is correct
 Calculate and display the final quiz score
 Use objects to represent questions
-Store questions in arrays and process them sequentially
+Store questions in arrays and process them sequentially.
